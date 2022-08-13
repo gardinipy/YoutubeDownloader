@@ -1,3 +1,3 @@
 # YoutubeDownloader
 
-use: #python ytb.py
+use: python ytb.py
